@@ -1,0 +1,10 @@
+Menu: +, -, /, *
+Sum= 25
+Menu: +, -, /, *
+Diff= 15
+Menu: +, -, /, *
+invalid operator
+Menu: +, -, /, *
+invalid operator
+Menu: +, -, /, *
+invalid operator
